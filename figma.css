@@ -2,14 +2,15 @@ body {
     font-family: 'Baloo Bhai';
     height: 4755px;
     max-width: 1440px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #page11 {
     width: 1440px;
     height: 831.22px;
     background: linear-gradient(89.99deg, #269486 0.01%, #11574E 133.95%);
+    position: relative;
 }
 
 #page11 img {
@@ -189,17 +190,17 @@ body {
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 715px;
+    top: 656px;
     position: absolute;
     left: 149px;
-    width: 234px;
+    width: 241px;
 }
 
 .end2 {
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 715px;
+    top: 656px;
     left: 542px;
     width: 234px;
 
@@ -209,7 +210,7 @@ body {
     display: flex;
     flex-direction: column;
     position: absolute;
-    top: 715px;
+    top: 656px;
     left: 936px;
     width: 234px;
 
